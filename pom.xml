@@ -11,7 +11,7 @@
         </developer>
     </developers>
 
-    <groupId>io.ifar.dw-goodies</groupId>
+    <groupId>io.ifar</groupId>
     <artifactId>dw-goodies</artifactId>
     <version>4-SNAPSHOT</version>
     <packaging>jar</packaging>
